@@ -1,4 +1,4 @@
 # demo1
 
 new to github.
-its updated
+its edited using git command line.
